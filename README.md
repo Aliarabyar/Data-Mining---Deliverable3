@@ -1,4 +1,4 @@
-# Data-Mining---Deliverable3
+# Algorithmics for Data Mining-Deliverable3
 Deliverable 3: Detecting Intrusions Using Data Mining Techniques
 
 
